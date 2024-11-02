@@ -1,5 +1,5 @@
 /*Utilitiy functions for Windows
-* Gets process runn
+* C++ utility functions to query currently running processes and walk the PEB structure
 * Twitter: https://x.com/kapil_khot
 * Blog: https://slidingwindow0xff.com
 */
